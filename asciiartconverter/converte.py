@@ -1,4 +1,4 @@
-//taken from https://github.com/Ullreich/asciitoimg
+#taken from https://github.com/Ullreich/asciitoimg
 
 import colorama
 from PIL import Image, ImageGrab
