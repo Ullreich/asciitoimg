@@ -6,7 +6,8 @@
 
 # TODO
 ### convert images to ascii
-* [python repo](https://github.com/LeandroBarone/python-ascii_magic)
+* [python tool](https://github.com/LeandroBarone/python-ascii_magic)
+* [better python tool](https://github.com/ajratnam/image-to-ascii/)
 * [cli tool](https://github.com/TheZoraiz/ascii-image-converter)
 
 ### datasets
