@@ -19,3 +19,6 @@
 * [baelding](https://www.baeldung.com/cs/pytorch-generative-adversarial-networks)
 * [GANs from scratch with good sources](https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f)
 * [GAN paper](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
+* [ML mastery blog](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/)
+
+* [PyTorch tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html)
