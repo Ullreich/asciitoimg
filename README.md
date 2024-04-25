@@ -4,7 +4,7 @@
 
 * try classification first?
 
-# TODO
+# Resources
 ### convert images to ascii
 * [python tool](https://github.com/LeandroBarone/python-ascii_magic)
 * [better python tool](https://github.com/ajratnam/image-to-ascii/)
