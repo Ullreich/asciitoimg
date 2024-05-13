@@ -1,5 +1,9 @@
 # TODO
+### meta
+* update `TODO.md` to have checkboxes
+
 ### code
+* add yaml file of conda env to easily reproduce
 * normalize datasets into range [-1, 1] [docs](https://pytorch.org/vision/stable/transforms.html)
 * visualize net with tensorBoard [docs](https://pytorch.org/tutorials/recipes/recipes/tensorboard_with_pytorch.html) 
 * train/test split
